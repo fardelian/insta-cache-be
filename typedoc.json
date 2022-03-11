@@ -1,0 +1,9 @@
+{
+  "entryPoints": [
+    "src/lib",
+    "src/routers",
+    "src/controllers",
+    "src/services"
+  ],
+  "out": "artifacts/docs"
+}
